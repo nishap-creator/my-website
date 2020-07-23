@@ -4,8 +4,7 @@ This is readme file
 
 branch 3 commit
 
+Deleted lines
 
-UPdtae Readme File in GIthuB to reflect in locak 
-Edit made locally
 
 quick teeek to file remotely
